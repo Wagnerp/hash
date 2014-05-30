@@ -1,0 +1,4 @@
+hash
+====
+
+A Hash Library
